@@ -140,7 +140,7 @@ For me, every project is another chance to discover what I can do and what I nee
 
 🐙 **GitHub:** [Explore my repositories](https://github.com/sindhurani04)
 
-💼 **LinkedIn:** Add your LinkedIn profile link here.
+💼 **LinkedIn:** https://linkedin.com/in/msindhurani
 
 ---
 
