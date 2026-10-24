@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Sindhu Rani
-
+💻 Aspiring Software Developer | Java Full Stack | Artificial Intelligence
 ### Turning My Curiosity for Technology into Real Projects 💻
 
 I'm an Artificial Intelligence graduate who enjoys exploring how technology works and using what I learn to create practical solutions. My journey has taken me from programming fundamentals to web application development and deep learning-based healthcare projects.
