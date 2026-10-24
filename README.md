@@ -143,7 +143,7 @@ For me, every project is another chance to discover what I can do and what I nee
 💼 **LinkedIn:** https://linkedin.com/in/msindhurani
 
 ---
- ##✨ Learn. Build. Debug. Improve. Repeat.
+✨ Learn. Build. Debug. Improve. Repeat.
 
 Every project is an opportunity to learn something new and become a better developer.
 
